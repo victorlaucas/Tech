@@ -19,3 +19,7 @@ $secondary-color: color("yellow", "base") !default;
 @import 'materialize';
 @import "materialize/extras/nouislider";
 @import "https://fonts.googleapis.com/icon?family=Material+Icons";
+
+.home-card{
+  margin-top: 25px;
+}
